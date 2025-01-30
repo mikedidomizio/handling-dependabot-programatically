@@ -1,4 +1,4 @@
-# Handling Dependabot Programatically
+# Handling Dependabot Programmatically
 
 Scripts and whatnot to assist in handling dependabot pull requests.
 
